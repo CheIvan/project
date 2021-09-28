@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello homework on geekbrains 2 part
+=======
+hello homework on geekbrains
+>>>>>>> ac965ab (edit and save commit HW12)
